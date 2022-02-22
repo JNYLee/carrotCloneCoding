@@ -42,7 +42,6 @@ export default function Home() {
         </div>
       </div>
       <div className="bg-white p-10 rounded-2xl shadow-xl"></div>
-      <div className="bg-white p-10 rounded-2xl shadow-xl"></div>
     </div>
   );
 }
